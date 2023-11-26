@@ -1,0 +1,87 @@
+form div{
+   
+    text-align:first ;
+    white-space:pre-line;
+}
+body h1
+{
+    color:rgb(255, 102, 0);
+    text-align: center;
+    background-color: blue;
+    border-radius: 10px;
+
+    width:250px;
+    margin-left: 600px;
+    text-underline-position:inherit;
+    text-underline-offset: 40px;
+}
+select{
+    white-space:pre-line;
+    color:blue;
+  text-align: center;
+}
+input[type=address]
+{
+    width:20%;
+    padding:20px;
+    margin:20px;
+    margin-left: 2000px;
+}
+input::placeholder
+{
+    color:rgb(65, 42, 165);
+}
+#password
+{
+    color:blueviolet;
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px;
+}
+#address
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px; 
+    width:20%;
+    padding:20px;
+    margin:20px;
+    margin-left: 2px;
+    
+}
+#mobnum
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px; 
+}
+#email_12
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px; 
+}
+#name_123
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px;  
+}
+#name12
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 500px;  
+}
+#c_password
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px;  
+}
+#image
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    border-radius: 5px;  
+}
