@@ -1,3 +1,8 @@
+body{
+    border: solid;
+}
+
+
 form div{
    
     text-align:first ;
@@ -14,6 +19,8 @@ body h1
     margin-left: 600px;
     text-underline-position:inherit;
     text-underline-offset: 40px;
+    border: solid;
+    border-color: aqua;
 }
 select{
     white-space:pre-line;
@@ -26,6 +33,7 @@ input[type=address]
     padding:20px;
     margin:20px;
     margin-left: 2000px;
+    margin-bottom: -100px;
 }
 input::placeholder
 {
@@ -36,52 +44,136 @@ input::placeholder
     color:blueviolet;
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px;
+    /* border-radius: 5px; */
 }
 #address
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px; 
-    width:20%;
+    /* border-radius: 5px;  */
+    width:40%;
     padding:20px;
     margin:20px;
-    margin-left: 2px;
+    /* margin-left: 2px; */
+    margin-bottom: 00px;
+    text-align: center;
+    margin-top: -900%;
     
+}
+#paddress
+{
+    background-image: -moz-radial-gradient();
+    padding: 0.0%;
+    /* border-radius: 5px;  */
+    width:40%;
+    padding:20px;
+    margin:20px;
+    /* margin-left: 2px; */
+    margin-bottom: 00px;
+    text-align: center;
+    margin-top: -900%;
 }
 #mobnum
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px; 
+    /* border-radius: 5px;  */
 }
 #email_12
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px; 
+    /* border-radius: 5px;  */
 }
 #name_123
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px;  
+    /* border-radius: 5px;   */
 }
 #name12
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 500px;  
+    /* border-radius: 500px;   */
 }
 #c_password
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px;  
+    /* border-radius: 5px;   */
 }
 #image
 {
     background-image: -moz-radial-gradient();
     padding: 0.0%;
-    border-radius: 5px;  
+    /* border-radius: 5px;   */
+}
+#label1
+{
+    margin-left: 230px;
+}
+#label2
+{
+    margin-left: 330px;
+    /* margin-top: -200px; */
+    /* margin-bottom: 200px; */
+}
+#label3
+{
+    margin-left: 250px;
+}
+#label4
+{
+    margin-left: 350px;
+}
+#label5
+{
+    margin-left: 230px;
+}
+#label6
+{
+    margin-left: 230px;
+}
+#label7
+{
+    margin-left: 330px;
+}
+#label8
+{
+    margin-left: 230px;
+}
+#label9
+{
+    margin-left: 300px;
+}
+#label10
+{
+    margin-left: 230px;
+}
+#label11
+{
+    margin-left: 380px;
+}
+#label12
+{
+    margin-left: 230px;
+}
+#label13
+{
+    margin-left:350px;
+}
+#label14
+{
+    margin-left: 530px;
+}
+#label15
+{
+    margin-left: 530px;
+}
+#label16
+{
+    margin-left: 560px;
+    background-color: aqua;
+    padding: 1%;
 }
